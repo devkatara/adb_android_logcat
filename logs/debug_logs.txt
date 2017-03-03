@@ -1,0 +1,4 @@
+--------- beginning of main
+--------- beginning of system
+03-02 00:22:04.775  2397  2490 D devkatara_logging_application_D: [Debug] Hah... To Game Engine mou einai Cocos
+03-02 00:24:25.975  3717  3895 D devkatara_logging_application_D: [Debug] Hah... To Game Engine mou einai Cocos

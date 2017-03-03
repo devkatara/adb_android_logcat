@@ -1,0 +1,4 @@
+--------- beginning of main
+--------- beginning of system
+03-02 00:22:04.775  2397  2490 I devkatara_logging_application_I: [Info] Eimai edw gia na se vohthisw mpampa Paschali
+03-02 00:24:25.975  3717  3895 I devkatara_logging_application_I: [Info] Eimai edw gia na se vohthisw mpampa Paschali

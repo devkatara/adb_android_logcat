@@ -1,0 +1,14 @@
+#include "Log.h"
+
+.
+.
+.
+.
+
+
+LOGI("[Info] Eimai edw gia na se vohthisw ton mpampa %s", "Paschali");
+	LOGE("[Error] Mpampa %s exw error.....", "Paolo");
+	LOGW("[Warning] Dinw ston %s duo mhla apo ton %s", "Taso", "Paschali");
+	LOGD("[Debug] Hah... To Game Engine mou einai %s", "Cocos");
+
+	LOGI("Kati prospa8w na kanw edw pera xaxaxaxa");
